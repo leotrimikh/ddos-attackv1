@@ -15,4 +15,4 @@
 
 ### ScreenShot 
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+![capture](https://1.bp.blogspot.com/-NQcWsDmrypU/YGhHPHzT-FI/AAAAAAAAA24/H2UxqGEKt0kfG67u0JcOrBx_PFDT9g0qwCLcBGAsYHQ/s1920/Pamja%2Be%2B%25C3%25A7astit%2B%252839%2529.png)
