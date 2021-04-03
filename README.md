@@ -3,7 +3,7 @@
 
 ### DDos Attack v1 eshte nje projekt i krijuar nga Leotrimi, ky projekt mundeson attackimin e ip addressave!
 
-### Instalimi
+### Instalimi :
 
 ### git clone https://github.com/leotrimikh/ddos-attackv1
 
